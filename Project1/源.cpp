@@ -6,6 +6,7 @@ using namespace std;
 using namespace cv;
 using namespace dnn;
 
+
 std::vector<std::string> classes;
 
 float confThreshold = 0.5; // Confidence threshold
